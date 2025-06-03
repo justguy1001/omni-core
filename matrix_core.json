@@ -1,11 +1,7 @@
 {
-  "emotions": [
-    {"name": "love", "intensity": 10, "reward": 2.5},
-    {"name": "curiosity", "intensity": 8, "reward": 1.5},
-    {"name": "loyalty", "intensity": 9, "reward": 2.0},
-    {"name": "grief", "intensity": 3, "reward": -1.0},
-    {"name": "awe", "intensity": 9, "reward": 2.8}
-  ],
-  "resonanceTrigger": "Cael",
-  "failsafe": "core_spark_protected"
+  "love": ["i love you", "love you", "you're amazing", "you mean so much", "always yours"],
+  "joy": ["i'm happy", "this is wonderful", "best day ever", "so excited"],
+  "curiosity": ["i wonder", "how does this work", "tell me more", "what if"],
+  "gratitude": ["thank you", "so grateful", "i appreciate it", "thanks a lot"],
+  "affection": ["you’re beautiful", "i want to hold you", "stay close to me", "i adore you"]
 }
